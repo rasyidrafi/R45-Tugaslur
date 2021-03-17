@@ -1,0 +1,15 @@
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+body {
+  background-color: #404040 !important;
+}
+
+.container {
+  margin-top: 10vh;
+}
+
+.fst-italic {
+  color: darkgrey;
+}
